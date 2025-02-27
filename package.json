@@ -1,5 +1,5 @@
 {
-  "name": "@gaojianjian/react-native-amap-geolocation",
+  "name": "@ningyun/react-native-amap-geolocation",
   "description": "React Native geolocation module for Android + iOS",
   "keywords": [
     "react-native",
@@ -7,9 +7,12 @@
     "location",
     "geolocation"
   ],
-  "version": "1.0.1",
-  "author": "高健健 <gaojianjian_up@163.com>",
-  "repository": "git@github.com:zkgaojianjian/react-native-amap-geolocation.git",
+  "version": "0.0.0",
+  "author": "7c00 <i@7c00.cc>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qiuxiang/react-native-amap-geolocation"
+  },
   "license": "MIT",
   "files": [
     "src",
